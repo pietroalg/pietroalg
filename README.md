@@ -30,7 +30,7 @@ Criação de sistemas, mecânicas e universos inspirados em horror e sobrevivên
 
 - GitHub: [github.com/pietroalg](https://github.com/pietroalg)
 - E-mail: pietrogodoy15@outlook.com
-- LinkedIn: [https://www.linkedin.com/in/pietro-ant%C3%B4nio-laurito-godoy-98298a401/](https://www.linkedin.com/in/pietroantoniolauritogodoy/)
+- LinkedIn: https://www.linkedin.com/in/pietroantoniolauritogodoy/
 
 ---
 
