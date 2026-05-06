@@ -29,7 +29,7 @@ Criação de sistemas, mecânicas e universos inspirados em horror e sobrevivên
 ## 📫 Contato
 
 - GitHub: [github.com/pietroalg](https://github.com/pietroalg)
-- E-mal: pietrogodoy15@outlook.com
+- E-mail: pietrogodoy15@outlook.com
 
 ---
 
