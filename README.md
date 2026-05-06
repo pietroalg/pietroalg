@@ -26,14 +26,6 @@ Criação de sistemas, mecânicas e universos inspirados em horror e sobrevivên
 
 ---
 
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pietroalg&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pietroalg&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Contato
 
 - GitHub: [github.com/pietroalg](https://github.com/pietroalg)
