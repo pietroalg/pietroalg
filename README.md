@@ -19,12 +19,6 @@
 
 ---
 
-## 📌 Projetos em destaque
-
-##### 🎲 **Projetos de RPG**  
-Criação de sistemas, mecânicas e universos inspirados em horror e sobrevivência.
----
-
 ## 📫 Contato
 
 - GitHub: [github.com/pietroalg](https://github.com/pietroalg)
