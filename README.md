@@ -36,10 +36,10 @@ Atualmente estou cursando Python na Udemy onde estou desenvolvendo meu conhecime
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## 🏙️ Planos para o Futuro
-Quero continuar seguindo no ramo da programação focado em Python mas ainda quero aprender novas linguagens como Java e Scala.
+Quero continuar seguindo no ramo da programação focado em Python mas ainda quero aprender novas linguagens como Java e JavaScript
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## 💻Projetos
 **🐈‍⬛ Lynx Guard**: Recentemente iniciei um projeto chamado Lynx Guard, ele é basicamente um detector de phishing em python e de código aberto.
