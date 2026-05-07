@@ -44,7 +44,7 @@ Quero continuar seguindo no ramo da programação focado em Python mas ainda que
 ## 💻Projetos
 **🐈‍⬛ Lynx Guard**: Recentemente iniciei um projeto chamado Lynx Guard, ele é basicamente um detector de phishing em python e de código aberto.
 
-** 🛠️ Ferramentas de Solução**: Atualmente estou na Roque Imoveis onde grande parte das minhas tarefas podem ser automatizadas com Python, e estou estudando principalmente para diminuir o número de problemas que possam ser resolvidos bastando executar um script no terminal.
+**🛠️ Ferramentas de Solução**: Atualmente estou na Roque Imoveis onde grande parte das minhas tarefas podem ser automatizadas com Python, e estou estudando principalmente para diminuir o número de problemas que possam ser resolvidos bastando executar um script no terminal.
 
 ---
 
