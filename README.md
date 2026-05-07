@@ -18,7 +18,7 @@
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ## 💻Projetos
-**Lynx Guard**: Recentemente iniciei um projeto chamado Lynx Guard, ele é basicamente um detector de phishing em python e de código aberto.
+**🐈‍⬛ Lynx Guard**: Recentemente iniciei um projeto chamado Lynx Guard, ele é basicamente um detector de phishing em python e de código aberto.
 
 ---
 
