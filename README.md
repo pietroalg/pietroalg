@@ -50,7 +50,6 @@ Quero continuar seguindo no ramo da programação focado em Python mas ainda que
 
 ## 📫 Contato
 
-- GitHub: [github.com/pietroalg](https://github.com/pietroalg)
 - E-mail: pietrogodoy15@outlook.com
 - LinkedIn: https://www.linkedin.com/in/pietroantoniolauritogodoy/
 
